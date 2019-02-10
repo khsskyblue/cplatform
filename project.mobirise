@@ -171,7 +171,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<span style=\"font-style: normal;\">크리스천 대표 플랫폼</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.cplatform.io\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.cplatform.io\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
                 "overlayOpacity": "0"
               },
               {
