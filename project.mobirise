@@ -192,7 +192,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/diana-vargas-715578-unsplash-2000x1500.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -252,7 +252,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/giancarlo-revolledo-535552-unsplash-2000x3000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -447,7 +447,7 @@
           "caption1": "X<br><br>성경읽기 리워드<br>교회헌금 암호화폐<br>주일학교 달란트<br>&nbsp;선교헌금 암호화폐",
           "title2": "CㆍPAY",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "X<br><br>기독교 뮤직폰 연동<br>교회카페 주문<br>",
+          "caption2": "X<br><br>기독교 뮤직폰 연동<br>교회카페 주문<br>한국기독교 역사탐방",
           "title3": "GCSM",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "X<br><br>크리스천 글로벌 쇼핑몰",
