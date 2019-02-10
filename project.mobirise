@@ -252,7 +252,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/giancarlo-revolledo-535552-unsplash-2000x3000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -264,6 +264,22 @@
                 "text": "크리스천 플랫폼 소셜에 담다",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/-ebook.pdf-page-3-2000x1419.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Christian Pilgrimage Platform",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "크리스천 플랫폼 순례길에 담다",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5",
+                "overlayColor": "#f4861f"
               }
             ]
           },
@@ -275,7 +291,8 @@
           "_anchor": "slider-1",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             },
             "H2": {
               "color": "#f4861f",
@@ -447,7 +464,7 @@
           "caption1": "X<br><br>성경읽기 리워드<br>교회헌금 암호화폐<br>주일학교 달란트<br>&nbsp;선교헌금 암호화폐",
           "title2": "CㆍPAY",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "X<br><br>기독교 뮤직폰 연동<br>교회카페 주문<br>한국기독교 역사탐방",
+          "caption2": "X<br><br>기독교 뮤직폰 연동<br>교회카페 주문<br>한국기독교 순례길",
           "title3": "GCSM",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "X<br><br>크리스천 글로벌 쇼핑몰",
