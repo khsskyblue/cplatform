@@ -531,6 +531,16 @@ h6,
 #social-buttons2-o .btn-social {
   color: #232323;
 }
+#msg-box7-1t .mbr-section-title,
+#msg-box7-1t .lead p {
+  color: #fff;
+}
+#msg-box7-1t H3 {
+  text-align: left;
+}
+#msg-box7-1t P {
+  text-align: left;
+}
 #contacts3-t STRONG {
   color: #f4861f;
 }
