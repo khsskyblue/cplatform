@@ -429,7 +429,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#232323"
+            "bgColor": "#000000"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
           "_tags": [
