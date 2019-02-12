@@ -109,7 +109,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f4861f!important"
+              "color": "#000000!important"
             }
           },
           "_params": {
