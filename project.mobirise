@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#fac51c",
+        "warningColor": "#f4861f",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Nanum Gothic",
@@ -247,7 +247,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "크리스천 플랫폼 생활에 담다",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
                 "overlayOpacity": "0"
               },
               {
@@ -413,7 +413,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
           "_tags": [
             "Theme"
           ],
@@ -533,10 +533,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features6",
@@ -591,7 +591,7 @@
           },
           "title": "C·Platform",
           "text": ".C·Platform은 크리스천 공유경제 실현<br>투명한 기부문화 확산, 건강한 가치증식을<br>.추구하는 크리스천 플랫폼입니다",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
           "_tags": [
             "Theme"
           ],
