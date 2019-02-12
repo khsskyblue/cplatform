@@ -236,8 +236,8 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/kiwihug-465751-unsplash-2000x1335.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -267,7 +267,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-ebook.pdf-page-3-2000x1419.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
