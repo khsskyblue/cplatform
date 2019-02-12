@@ -407,7 +407,7 @@
               "size": 0
             }
           },
-          "title": "크리스천<br>플랫폼",
+          "title": "크리스천 플랫폼",
           "text": ".C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추구하는 크리스천 플랫폼입니다",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -418,7 +418,7 @@
           "_styles": {
             "H3": {
               "color": "#232323",
-              "font-size": "48px"
+              "font-size": "36px"
             }
           }
         },
