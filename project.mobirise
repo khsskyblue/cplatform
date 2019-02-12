@@ -39,7 +39,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
       }
     ],
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -125,7 +125,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://www.cplatform.io\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">C·Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">비전</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">C 문화</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">걸어온 길</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">CI</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.cplatform.io\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">ROADMAP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#top\">백서 DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://www.cplatform.io\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">C·Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">비전</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">C 문화</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">걸어온 길</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">CI</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.cplatform.io\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">ROADMAP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#top\">백서 DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -238,7 +238,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
                 "active": true,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -247,7 +247,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "크리스천 플랫폼 생활에 담다",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
                 "overlayOpacity": "0"
               },
               {
@@ -333,92 +333,18 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "MISSION",
-          "meta": "By John Smith posted July 20, 2016",
+          "title": "ROADMAP",
+          "meta": "2018-2020",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-16"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "70",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f4861f",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone-x-free-mock-up-1200x900.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "크리스천 플랫폼",
-          "text": ".C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추구하는 크리스천 플랫폼입니다",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-1c",
-          "_styles": {
-            "H3": {
-              "color": "#232323",
-              "font-size": "36px"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-x"
+          "_anchor": "header3-1e"
         },
         {
           "_inherit": "features3",
@@ -546,6 +472,100 @@
               "text-align": "center"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "MISSION",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f4861f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/iphone-x-free-mock-up-1200x900.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "크리스천 플랫폼",
+          "text": ".C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추구하는 크리스천 플랫폼입니다",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1c",
+          "_styles": {
+            "H3": {
+              "color": "#232323",
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-x"
         },
         {
           "_params": {
@@ -943,7 +963,7 @@
           "text3": "(서울시 강남구 학동로19길 35,1층(논현동28-11&nbsp;<br>",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-primary\">support@cplatform.io</a>",
           "text5": "<li><a href=\"index.html\">C·platform</a></li><li><a href=\"index.html\">NEWS</a></li><li><a href=\"index.html\">MISSION</a></li><li><a href=\"index.html\">ROADMAP</a></li><li><a href=\"index.html\">PARTNERS</a></li><li><a href=\"index.html\">TEAM</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +1 (0) 000 0000 001<br><br><br><strong>Partners</strong><br>06042<br>(서울시 강남구 학동로19길 35,1층(논현동28-11<br><br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +82 10 5177 2299<br><br><br><strong>Partners</strong><br>06042<br>(서울시 강남구 학동로19길 35,1층(논현동28-11<br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "khsskyblue@gmail.com",
