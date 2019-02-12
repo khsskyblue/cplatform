@@ -117,7 +117,7 @@
             "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#f4861f",
             "fontSize": 0.75,
