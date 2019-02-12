@@ -377,7 +377,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f4861f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -417,7 +417,7 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "H3": {
-              "color": "#f4861f",
+              "color": "#232323",
               "font-size": "48px"
             }
           }
