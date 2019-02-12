@@ -527,6 +527,25 @@ h6,
 #features3-12 P {
   text-align: center;
 }
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#features1-1k .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #f4861f;
+}
+#features1-1k .mbr-cards-col:nth-child(odd) .card-text {
+  color: #ffffff;
+}
+#features1-1k .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #000000;
+}
+#features1-1l .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #f4861f;
+}
+#features1-1l .mbr-cards-col:nth-child(odd) .card-text {
+  color: #ffffff;
+}
 #social-buttons2-o .mbr-section-title,
 #social-buttons2-o .btn-social {
   color: #232323;
