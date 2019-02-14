@@ -163,7 +163,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -239,7 +239,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -639,7 +639,7 @@
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f4861f",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#f4861f",
             "overlayOpacity": 0.5
@@ -1132,7 +1132,7 @@
           "text2": "Tel: +82-2-743-7854",
           "text3": "(서울시 강남구 학동로19길 35,1층(논현동28-11&nbsp;<br>",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-primary\">support@cplatform.io</a>",
-          "text5": "<li><a href=\"index.html\">C·platform</a></li><li><a href=\"index.html\">NEWS</a></li><li><a href=\"index.html\">MISSION</a></li><li><a href=\"index.html\">ROADMAP</a></li><li><a href=\"index.html\">PARTNERS</a></li><li><a href=\"index.html\">TEAM</a></li>",
+          "text5": "<li><a href=\"index.html\" class=\"text-warning\">C·platform</a></li><li><a href=\"index.html\" class=\"text-warning\">NEWS</a></li><li><a href=\"index.html\" class=\"text-warning\">MISSION</a></li><li><a href=\"index.html\" class=\"text-warning\">ROADMAP</a></li><li><a href=\"index.html\" class=\"text-warning\">PARTNERS</a></li><li><a href=\"index.html\">TEAM</a></li>",
           "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +82 10 5177 2299<br><br><br><strong>Partners</strong><br>06042<br>(서울시 강남구 학동로19길 35,1층(논현동28-11<br><br>",
           "form": {
             "title": "MESSAGE",
