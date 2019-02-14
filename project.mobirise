@@ -131,7 +131,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cplatform_ci-516x90.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-516x90.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://cplatfrom.io",
@@ -173,7 +173,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<span style=\"font-style: normal;\">크리스천 대표 플랫폼</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.cplatform.io\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.cplatform.io\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
                 "overlayOpacity": "0"
               },
               {
@@ -269,7 +269,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/%EC%9D%B8%EC%B2%9C%EC%88%9C%EB%A1%80%EA%B8%B8%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81-ebook(%EC%A0%80%ED%95%B4%EC%83%81).pdf_page-3-2000x1419.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-ebook.pdf-page-3-2000x1419.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -375,7 +375,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone_x_free_mock_up-1200x900.png",
+              "src": "@PROJECT_PATH@/assets/images/iphone-x-free-mock-up-1200x900.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -785,7 +785,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/cplatform_photo-917x479.png",
+                "image": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
                 "thumb": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479-800x418.png",
                 "alt": "",
                 "title": "",
@@ -821,8 +821,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/%EC%9D%B8%EC%B2%9C%EC%88%9C%EB%A1%80%EA%B8%B8%EA%B0%80%EC%9D%B4%EB%93%9C%EB%B6%81-ebook(%EC%A0%80%ED%95%B4%EC%83%81).pdf_page-3-2000x1419.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/-ebook.pdf-page-3-2000x1419-800x568.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-ebook.pdf-page-3-2000x1419.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ebook.pdf-page-3-2000x1419-800x568.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "test",
@@ -923,7 +923,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cplatform_ci-516x90.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-516x90.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -934,7 +934,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cplatform_ci-516x90.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-516x90.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1063,7 +1063,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sample_qrcode-116x116.png",
+              "src": "@PROJECT_PATH@/assets/images/sample-qrcode-116x116.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1105,7 +1105,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cplatform_ci-265x46.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-265x46.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
