@@ -330,26 +330,6 @@
           "_anchor": "header3-k"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "ROADMAP",
-          "meta": "2018-2020",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1e"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -615,13 +595,13 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "title": "ROADMAP",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "2019-2020",
           "_tags": [
             "Theme"
           ],
