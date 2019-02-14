@@ -355,7 +355,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/iphone-x-free-mock-up-1200x900.png",
+              "src": "@PROJECT_PATH@/assets/images/iphone-x-free-mock-up-1-1200x900.png",
               "link": "",
               "alt": "",
               "title": ""
