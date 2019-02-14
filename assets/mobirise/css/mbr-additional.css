@@ -500,6 +500,10 @@ h6,
 #msg-box5-1c P {
   color: #ffffff;
 }
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
+  text-align: center;
+}
 #features6-n H4 {
   text-align: center;
 }
