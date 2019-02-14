@@ -9,7 +9,7 @@
         "primaryColor": "#000000",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#4285f4",
         "warningColor": "#f4861f",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#f4861f",
         "#232323",
-        "#222222"
+        "#222222",
+        "#4285f4"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -40,7 +41,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
       }
     ],
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -249,7 +250,8 @@
                 "contentAlign": "left",
                 "text": "크리스천 플랫폼 생활에 담다",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">백서 DOWNLOAD</a> ",
-                "overlayOpacity": "0"
+                "overlayOpacity": "0",
+                "overlayColor": "#f4861f"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/giancarlo-revolledo-535552-unsplash-2000x3000.jpg",
@@ -351,9 +353,9 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
-            "imageSize": "70",
+            "imageSize": "59",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -391,8 +393,8 @@
             }
           },
           "title": "크리스천 플랫폼",
-          "text": ".C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추구하는 크리스천 플랫폼입니다",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": ".C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추.구하는 크리스천 플랫폼입니다",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
           "_tags": [
             "Theme"
           ],
@@ -407,19 +409,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-x"
         },
         {
           "_inherit": "features3",
@@ -600,6 +589,26 @@
           "_anchor": "header2-15"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "ROADMAP",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z"
+        },
+        {
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
@@ -618,7 +627,7 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showSubtitle": false,
             "showImages": false,
             "showName": true,
