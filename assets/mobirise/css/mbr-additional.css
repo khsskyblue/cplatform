@@ -411,11 +411,18 @@ h6,
   color: #000000;
 }
 #msg-box5-1c H3 {
-  color: #232323;
+  color: #f4861f;
   font-size: 36px;
 }
 #msg-box5-1c P {
   color: #ffffff;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k .mbr-section-title {
+  color: #f4861f;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -488,13 +495,6 @@ h6,
 }
 #slider-1 SPAN {
   color: #000000;
-}
-#header3-k .mbr-section-title,
-#header3-k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-k .mbr-section-title {
-  color: #f4861f;
 }
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
