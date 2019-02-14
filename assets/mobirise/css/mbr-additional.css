@@ -410,6 +410,13 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #000000;
 }
+#msg-box5-1c H3 {
+  color: #232323;
+  font-size: 36px;
+}
+#msg-box5-1c P {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -488,13 +495,6 @@ h6,
 }
 #header3-k .mbr-section-title {
   color: #f4861f;
-}
-#msg-box5-1c H3 {
-  color: #232323;
-  font-size: 36px;
-}
-#msg-box5-1c P {
-  color: #ffffff;
 }
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
