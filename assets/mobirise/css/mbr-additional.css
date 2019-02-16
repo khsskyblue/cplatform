@@ -538,12 +538,16 @@ h6,
 }
 #features3-12 H4 {
   color: #f4861f;
+  text-align: left;
 }
 #features3-12 B {
   color: #000000;
 }
 #features3-12 P {
-  text-align: center;
+  text-align: left;
+}
+#features3-12 H5 {
+  text-align: left;
 }
 #social-buttons2-o .mbr-section-title,
 #social-buttons2-o .btn-social {

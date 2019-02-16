@@ -109,7 +109,7 @@
             }
           },
           "title": "크리스천 플랫폼",
-          "text": "C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추.구하는 크리스천 플랫폼입니다.",
+          "text": "C·Platform은 크리스천 공유경제 실현, <br>투명한 기부문화 확산, 건강한 가치증식을 추구하는 <br>크리스천 플랫폼입니다.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
           "_tags": [
             "Theme"
@@ -580,7 +580,7 @@
             }
           },
           "title": "C·Platform",
-          "text": ".C·Platform은 크리스천 공유경제 실현<br>투명한 기부문화 확산, 건강한 가치증식을<br>.추구하는 크리스천 플랫폼입니다",
+          "text": "C·Platform은 크리스천 공유경제 실현<br>투명한 기부문화 확산, 건강한 가치증식을<br>추구하는 크리스천 플랫폼입니다.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
           "_tags": [
             "Theme"
@@ -970,13 +970,17 @@
           "_anchor": "features3-12",
           "_styles": {
             "H4": {
-              "color": "#f4861f"
+              "color": "#f4861f",
+              "text-align": "left"
             },
             "B": {
               "color": "#000000"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "left"
+            },
+            "H5": {
+              "text-align": "left"
             }
           }
         },
@@ -1131,9 +1135,9 @@
           "text1": "크리스천 플랫폼",
           "text2": "Tel: +82-2-743-7854",
           "text3": "서울시 강남구 학동로19길 35,1층(논현동28-11)&nbsp;<br>",
-          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-primary\">support@cplatform.io</a>",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">support@cplatform.io</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-warning\">C·platform</a></li><li><a href=\"index.html\" class=\"text-warning\">NEWS</a></li><li><a href=\"index.html\" class=\"text-warning\">MISSION</a></li><li><a href=\"index.html\" class=\"text-warning\">ROADMAP</a></li><li><a href=\"index.html\" class=\"text-warning\">PARTNERS</a></li><li><a href=\"index.html\">TEAM</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +82 10 5177 2299<br><br><br><strong>Partners</strong><br>06042<br>(서울시 강남구 학동로19길 35,1층(논현동28-11)<br><br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +82 10 5177 2299<br><br><br><strong>Partners</strong><br>06042<br>서울시 강남구 학동로19길 35,1층(논현동28-11)<br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "khsskyblue@gmail.com",
