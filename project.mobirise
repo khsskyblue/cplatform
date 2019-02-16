@@ -41,7 +41,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
       }
     ],
-    "uniqCompNum": 73,
+    "uniqCompNum": 78,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -85,7 +85,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
@@ -635,11 +635,11 @@
             "count": "5",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/iphone-xs-isometric-onfloor-mockup-1920x1560.png",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgColor": "#f4861f",
             "overlay": true,
             "overlayColor": "#f4861f",
             "overlayOpacity": 0.5
