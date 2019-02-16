@@ -1,4 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Black+Han+Sans:400);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800);
 
 
 
@@ -6,11 +7,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
 }
 .btn,
 .alert,
@@ -34,7 +35,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -48,7 +49,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -57,22 +58,22 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
   font-style: normal;
 }
 .bg-primary {
@@ -493,7 +494,7 @@ h6,
   text-align: left;
 }
 #slider-1 SPAN {
-  color: #000000;
+  color: #ffffff;
 }
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
@@ -537,16 +538,12 @@ h6,
 }
 #features3-12 H4 {
   color: #f4861f;
-  text-align: left;
 }
 #features3-12 B {
   color: #000000;
 }
 #features3-12 P {
-  text-align: left;
-}
-#features3-12 H5 {
-  text-align: left;
+  text-align: center;
 }
 #social-buttons2-o .mbr-section-title,
 #social-buttons2-o .btn-social {

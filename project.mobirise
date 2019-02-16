@@ -12,13 +12,13 @@
         "infoColor": "#4285f4",
         "warningColor": "#f4861f",
         "dangerColor": "#f28281",
-        "titleFont": "Black Han Sans",
-        "subtitleFont": "Black Han Sans",
-        "textFont": "Black Han Sans",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Nanum Gothic",
+        "textFont": "Nanum Gothic",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
-        "isRtl": false
+        "isRtl": true
       },
       "additionalSetColors": [
         "#f4861f",
@@ -39,11 +39,6 @@
         "css": "'Montserrat', sans-serif",
         "name": "Montserrat",
         "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-      },
-      {
-        "css": "'Black Han Sans', sans-serif",
-        "name": "Black Han Sans",
-        "url": "https://fonts.googleapis.com/css?family=Black+Han+Sans:400"
       }
     ],
     "uniqCompNum": 73,
@@ -113,8 +108,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">크리스천 플랫폼</span>",
-          "text": "C·Platform은 크리스천 공유경제 실현, <br>투명한 기부문화 확산, 건강한 가치증식을 추구하는 <br>크리스천 플랫폼입니다.",
+          "title": "크리스천 플랫폼",
+          "text": ".C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추.구하는 크리스천 플랫폼입니다",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
           "_tags": [
             "Theme"
@@ -146,7 +141,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": "<span style=\"font-weight: normal;\">CHRISTIAN CULTURE CHANGE</span>",
+          "title": "CHRISTIAN CULTURE CHANGE",
           "meta": "로마서 8:28 ",
           "_tags": [
             "Theme"
@@ -391,7 +386,7 @@
               "text-align": "left"
             },
             "SPAN": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         },
@@ -407,7 +402,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">MISSION</span>",
+          "title": "MISSION",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -510,16 +505,16 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "<span style=\"font-weight: normal;\">CㆍCOIN</span>",
+          "title1": "CㆍCOIN",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "X<br><br>성경읽기 리워드<br>교회헌금 암호화폐<br>주일학교 달란트<br>&nbsp;선교헌금 암호화폐",
-          "title2": "<span style=\"font-weight: normal;\">CㆍPAY</span>",
+          "title2": "CㆍPAY",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "X<br><br>기독교 뮤직폰<br>교회 결제시스템<br>한국기독교 순례길 역사탐방<br>교회문화사역",
-          "title3": "<span style=\"font-weight: normal;\">GCSM</span>",
+          "title3": "GCSM",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "X<br><br>크리스천 글로벌 쇼핑몰",
-          "title4": "<span style=\"font-weight: normal;\">CBA</span>",
+          "title4": "CBA",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "X<br><br>크리스천 블록체인 협회<br>",
           "title5": "Trendy Website Blocks",
@@ -584,9 +579,9 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">C·Platform</span>",
-          "text": "C·Platform은 크리스천 공유경제 실현<br>투명한 기부문화 확산, 건강한 가치증식을<br>추구하는 크리스천 플랫폼입니다.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a>",
+          "title": "C·Platform",
+          "text": ".C·Platform은 크리스천 공유경제 실현<br>투명한 기부문화 확산, 건강한 가치증식을<br>.추구하는 크리스천 플랫폼입니다",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
           "_tags": [
             "Theme"
           ],
@@ -605,7 +600,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">ROADMAP</span>",
+          "title": "ROADMAP",
           "meta": "2019-2020",
           "_tags": [
             "Theme"
@@ -744,7 +739,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">NEWS</span>",
+          "title": "NEWS",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -853,7 +848,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-weight: normal;\">TEAM</span>",
+          "title": "TEAM",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -945,15 +940,15 @@
             }
           },
           "title1": "JAY PARK",
-          "subtitle1": "Founder",
+          "subtitle1": "<b>Founder</b>",
           "caption1": "Samsung Corning Co., Ltd\n<br>Graduated from Manchester College\n<br>CEO, Bugtime Korea Co., Ltd",
-          "title2": "<span style=\"font-weight: normal;\">Jae ryun Kwon</span>",
-          "subtitle2": "Advisor",
+          "title2": "Jae ryun Kwon",
+          "subtitle2": "<b>Advisor</b>",
           "caption2": "CSO, Vice President at Pax Datatech\n<br>B.S degree in Industrial Management at KAIST.\n<br>CEO postion in Korea Enterprise Investment Co.,\n<br>CEO Korea M&amp;A Co.,\n<br>CEO KTB Entertainment Co.,&nbsp;<br>",
-          "title3": "<span style=\"font-weight: normal;\">An, Seong Min</span>",
-          "subtitle3": "Advisor",
+          "title3": "An, Seong Min",
+          "subtitle3": "<b>Advisor</b>",
           "caption3": "Waseda University(MBA), Japan\n<br>Overseas Marketing Specialist",
-          "title4": "<span style=\"font-weight: normal;\">Jinil Yang</span>",
+          "title4": "Jinil Yang",
           "subtitle4": "<b>Advisor</b>",
           "caption4": "최근 10년간 IT기획 및 마케팅 업무를 진행하였으며, 글로벌 쇼\n<br>핑몰 및 중국 마케팅을 주로 진행하였다. EBC의 국내 마케팅 및\n<br>커뮤니티 책임자로 일하였으며, EBC의 ICO 종료이후 암호화폐\n<br>거래소에서 상장 및 암호화폐 컨설팅일을 하고 있다.\n<br>C·PLATFORM은 최초 아이디어 단계부터 10개월 이상 어드바\n<br>이저로서의 역할을 수행하고 있다.",
           "title5": "Trendy Website Blocks",
@@ -975,17 +970,13 @@
           "_anchor": "features3-12",
           "_styles": {
             "H4": {
-              "color": "#f4861f",
-              "text-align": "left"
+              "color": "#f4861f"
             },
             "B": {
               "color": "#000000"
             },
             "P": {
-              "text-align": "left"
-            },
-            "H5": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
@@ -1007,7 +998,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "<span style=\"font-weight: normal;\">FOLLOW US</span>",
+          "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://cplatform.io\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://cplatform.io\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://cplatform.io\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://cplatform.io\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://cplatform.io\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
@@ -1070,7 +1061,7 @@
               "size": 250
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Donation</span>",
+          "title": "Donation",
           "text": "Ethereum을 이 주소에 기부하십시오<br>gbfgfg0x2a49d3e644726f930ecb90adc0f7e3e2593f80da<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -1136,13 +1127,13 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">문의하기</a>",
-          "title1": "<span style=\"font-weight: normal;\">Categories</span>",
-          "text1": "크리스천 플랫폼",
+          "title1": "Categories",
+          "text1": "크리스천 블록체인 플랫폼",
           "text2": "Tel: +82-2-743-7854",
-          "text3": "서울시 강남구 학동로19길 35,1층(논현동28-11)&nbsp;<br>",
+          "text3": "(서울시 강남구 학동로19길 35,1층(논현동28-11&nbsp;<br>",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">support@cplatform.io</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-warning\">C·platform</a></li><li><a href=\"index.html\" class=\"text-warning\">NEWS</a></li><li><a href=\"index.html\" class=\"text-warning\">MISSION</a></li><li><a href=\"index.html\" class=\"text-warning\">ROADMAP</a></li><li><a href=\"index.html\" class=\"text-warning\">PARTNERS</a></li><li><a href=\"index.html\">TEAM</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +82 10 5177 2299<br><br><br><strong>Partners</strong><br>06042<br>서울시 강남구 학동로19길 35,1층(논현동28-11)<br><br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +82 10 5177 2299<br><br><br><strong>Partners</strong><br>06042<br>(서울시 강남구 학동로19길 35,1층(논현동28-11<br><br>",
           "form": {
             "title": "MESSAGE",
             "action": "khsskyblue@gmail.com",
