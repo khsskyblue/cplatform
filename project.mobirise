@@ -1077,12 +1077,12 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1241.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#000000",
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
@@ -1180,6 +1180,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            ".list-group-text": {
+              "color": "#000000"
             }
           }
         },
