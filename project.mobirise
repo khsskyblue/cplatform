@@ -1214,7 +1214,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f4861f",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1228,6 +1228,9 @@
           "_styles": {
             "P": {
               "color": "#000000"
+            },
+            "B": {
+              "color": "#f4861f"
             }
           }
         }
