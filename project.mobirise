@@ -41,7 +41,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
       }
     ],
-    "uniqCompNum": 82,
+    "uniqCompNum": 83,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -541,6 +541,26 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "C·Platform",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -584,7 +604,7 @@
           },
           "title": "C·Platform",
           "text": "C·Platform은 크리스천 공유경제 실현 투명한 기부문화 확산, <br>건강한 가치증식을 추구하는 크리스천 블록체인 플랫폼입니다.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&lt;더 알아보기</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a>",
           "_tags": [
             "Theme"
           ],

@@ -503,6 +503,10 @@ h6,
 #features6-n H4 {
   text-align: center;
 }
+#header3-2a .mbr-section-title,
+#header3-2a .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-1z .mbr-section-title,
 #header3-1z .mbr-section-subtitle {
   text-align: center;
