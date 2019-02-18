@@ -41,7 +41,7 @@
         "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
       }
     ],
-    "uniqCompNum": 83,
+    "uniqCompNum": 86,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -793,7 +793,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "test",
-                "active": false
+                "active": true
               },
               {
                 "tags": "비디오",
@@ -829,7 +829,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "test",
-                "active": true
+                "active": false
               },
               {
                 "tags": "채용",
@@ -1155,7 +1155,7 @@
           "text2": "Tel: +82-2-743-7854",
           "text3": "서울시 강남구 학동로19길 35,1층(논현동28-11)&nbsp;<br>",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-warning\">support@cplatform.io</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-warning\">C·platform</a></li><li><a href=\"index.html\" class=\"text-warning\">NEWS</a></li><li><a href=\"index.html\" class=\"text-warning\">MISSION</a></li><li><a href=\"index.html\" class=\"text-warning\">ROADMAP</a></li><li><a href=\"index.html\" class=\"text-warning\">PARTNERS</a></li><li><a href=\"index.html\">TEAM</a></li>",
+          "text5": "<li><a href=\"index.html\" class=\"text-warning\">C·platform</a></li><li><a href=\"index.html\" class=\"text-warning\">NEWS</a></li><li><a href=\"index.html\" class=\"text-warning\">MISSION</a></li><li><a href=\"index.html\" class=\"text-warning\">ROADMAP</a></li><li><a href=\"index.html\" class=\"text-warning\">PARTNERS</a></li><li><a href=\"index.html\" class=\"text-warning\">TEAM</a></li>",
           "text6": "<strong>Contacts</strong><br>Email: support@cplatform.io<br>Phone: +82 10 5177 2299<br><br><br><strong>Partners</strong><br>06042<br>서울시 강남구 학동로19길 35,1층(논현동28-11)<br><br>",
           "form": {
             "title": "MESSAGE",
@@ -1165,7 +1165,7 @@
             },
             "fields": {
               "name": {
-                "visible": false,
+                "visible": true,
                 "title": "Name",
                 "customTitle": "Name*"
               },
@@ -1175,7 +1175,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
@@ -1199,10 +1199,14 @@
               "text-align": "left"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             },
             ".list-group-text": {
               "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         },

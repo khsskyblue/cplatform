@@ -572,9 +572,13 @@ h6,
 }
 #contacts3-t P {
   text-align: left;
+  color: #000000;
 }
 #contacts3-t .list-group-text {
   color: #000000;
+}
+#contacts3-t SPAN {
+  color: #ffffff;
 }
 #footer1-v P {
   color: #000000;
