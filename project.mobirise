@@ -75,15 +75,15 @@
             "paddingTop": "6",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/iphone-xs-isometric-onfloor-mockup-2-1920x1560.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f4861f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
@@ -121,7 +121,7 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "H3": {
-              "color": "#f4861f",
+              "color": "#000000",
               "font-size": "36px"
             },
             "P": {
@@ -147,7 +147,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "title": "CHRISTIAN CULTURE BLOCKCHAIN",
+          "title": "CHRISTIAN CULTURE CHANGE",
           "meta": "로마서 8:28 사이트개발중..",
           "_tags": [
             "Theme"
@@ -164,13 +164,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -191,7 +191,7 @@
               "background": "#f4861f"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -214,7 +214,7 @@
             "bgColor": "#f4861f",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://www.cplatform.io\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">C·Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">비전</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">C 문화</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">걸어온 길</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">CI</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.cplatform.io\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">ROADMAP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#top\">백서 DOWNLOAD</a></li>",
