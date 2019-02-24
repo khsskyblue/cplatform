@@ -82,13 +82,13 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f4861f",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
@@ -126,11 +126,11 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "H3": {
-              "color": "#000000",
+              "color": "#f4861f",
               "font-size": "36px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         },

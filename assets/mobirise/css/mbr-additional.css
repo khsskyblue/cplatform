@@ -411,11 +411,223 @@ h6,
   color: #000000;
 }
 #msg-box5-1c H3 {
-  color: #000000;
+  color: #f4861f;
   font-size: 36px;
 }
 #msg-box5-1c P {
+  color: #ffffff;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k .mbr-section-title {
+  color: #f4861f;
+}
+#header3-k .mbr-section-subtitle {
+  color: #ffffff;
+}
+#menu-0 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-0 .navbar-caption {
+  color: #ffffff;
+}
+#menu-0 .navbar-toggler {
   color: #000000;
+}
+#menu-0 .close-icon::before,
+#menu-0 .close-icon::after {
+  background-color: #000000;
+}
+#menu-0 .link,
+#menu-0 .dropdown-item {
+  color: #000000;
+}
+#menu-0 .link {
+  font-size: 0.75rem;
+}
+#menu-0 .dropdown-item,
+#menu-0 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-0 .link:hover,
+#menu-0 .dropdown-item:hover,
+#menu-0 .link:focus,
+#menu-0 .dropdown-item:focus {
+  color: #000000;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-menu {
+  background: #d66d0a;
+}
+#menu-0 .nav-dropdown-sm .link:focus,
+#menu-0 .nav-dropdown-sm .link:hover,
+#menu-0 .nav-dropdown-sm .dropdown-item:focus,
+#menu-0 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f37e10!important;
+}
+#menu-0 .navbar,
+#menu-0 .nav-dropdown-sm,
+#menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-0 .nav-dropdown-sm .dropdown-menu {
+  background: #f4861f;
+}
+#menu-0 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#menu-0 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-0 .bg-color.transparent.opened .link:hover,
+#menu-0 .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#menu-0 .link[aria-expanded="true"],
+#menu-0 .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#slider-1 P {
+  text-align: left;
+  color: #ffffff;
+}
+#slider-1 H2 {
+  color: #f4861f;
+  text-align: left;
+}
+#slider-1 SPAN {
+  color: #ffffff;
+}
+#header3-2a .mbr-section-title,
+#header3-2a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2a .mbr-section-title {
+  color: #000000;
+}
+#header3-2a .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-20 .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+#header3-20 .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+#features6-n H4 {
+  text-align: center;
+}
+#header3-1z .mbr-section-title,
+#header3-1z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1z .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+#header3-1z .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+#testimonials3-1y .mbr-section-title {
+  color: #000000;
+}
+#testimonials3-1y .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-1y .card-block P {
+  text-align: left;
+  color: #000000;
+  font-size: 14px;
+}
+#testimonials3-1y .card-footer > div {
+  color: #f4861f;
+}
+#header3-14 .mbr-section-title,
+#header3-14 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-14 .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+#header3-14 .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+#gallery4-t .mbr-gallery-item > div > span {
+  color: #f4861f;
+  text-align: left;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+#header3-13 .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+#features3-12 H4 {
+  color: #f4861f;
+}
+#features3-12 B {
+  color: #000000;
+}
+#features3-12 P {
+  text-align: center;
+}
+#social-buttons2-o .mbr-section-title,
+#social-buttons2-o .btn-social {
+  color: #232323;
+}
+#social-buttons2-o .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+#contacts3-t STRONG {
+  color: #f4861f;
+}
+#contacts3-t H4 {
+  color: #f4861f;
+  text-align: left;
+}
+#contacts3-t P {
+  text-align: left;
+  color: #000000;
+}
+#contacts3-t .list-group-text {
+  color: #000000;
+}
+#contacts3-t SPAN {
+  color: #ffffff;
+}
+#msg-box7-1t .mbr-section-title,
+#msg-box7-1t .lead p {
+  color: #fff;
+}
+#msg-box7-1t H3 {
+  text-align: left;
+}
+#msg-box7-1t P {
+  text-align: left;
+}
+#msg-box5-1c H3 {
+  color: #f4861f;
+  font-size: 36px;
+}
+#msg-box5-1c P {
+  color: #ffffff;
 }
 #header3-k .mbr-section-title,
 #header3-k .mbr-section-subtitle {
