@@ -489,8 +489,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#f4861f"
           },
           "title": "_<br>MISSION",
@@ -644,8 +644,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#f4861f"
           },
           "title": "_<br>ROADMAP",
@@ -788,8 +788,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#f4861f"
           },
           "title": "_<br>NEWS",
@@ -905,8 +905,8 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#f4861f"
           },
           "title": "_<br>TEAM",
@@ -1052,8 +1052,8 @@
             }
           },
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/landscape3.jpg",
             "parallax": true,
