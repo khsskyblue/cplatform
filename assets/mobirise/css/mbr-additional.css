@@ -424,6 +424,9 @@ h6,
 #header3-k .mbr-section-title {
   color: #f4861f;
 }
+#header3-k .mbr-section-subtitle {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -501,7 +504,10 @@ h6,
   text-align: center;
 }
 #header3-20 .mbr-section-title {
-  color: #f4861f;
+  color: #000000;
+}
+#header3-20 .mbr-section-subtitle {
+  color: #ffffff;
 }
 #features6-n H4 {
   text-align: center;
@@ -511,14 +517,20 @@ h6,
   text-align: center;
 }
 #header3-2a .mbr-section-title {
-  color: #f4861f;
+  color: #000000;
+}
+#header3-2a .mbr-section-subtitle {
+  color: #ffffff;
 }
 #header3-1z .mbr-section-title,
 #header3-1z .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1z .mbr-section-title {
-  color: #f4861f;
+  color: #000000;
+}
+#header3-1z .mbr-section-subtitle {
+  color: #ffffff;
 }
 #testimonials3-1y .mbr-section-title {
   color: #000000;
@@ -539,7 +551,10 @@ h6,
   text-align: center;
 }
 #header3-14 .mbr-section-title {
-  color: #f4861f;
+  color: #000000;
+}
+#header3-14 .mbr-section-subtitle {
+  color: #ffffff;
 }
 #gallery4-t .mbr-gallery-item > div > span {
   color: #f4861f;
@@ -550,7 +565,10 @@ h6,
   text-align: center;
 }
 #header3-13 .mbr-section-title {
-  color: #f4861f;
+  color: #000000;
+}
+#header3-13 .mbr-section-subtitle {
+  color: #ffffff;
 }
 #features3-12 H4 {
   color: #f4861f;
@@ -566,17 +584,7 @@ h6,
   color: #232323;
 }
 #social-buttons2-o .mbr-section-title {
-  color: #f4861f;
-}
-#msg-box7-1t .mbr-section-title,
-#msg-box7-1t .lead p {
-  color: #fff;
-}
-#msg-box7-1t H3 {
-  text-align: left;
-}
-#msg-box7-1t P {
-  text-align: left;
+  color: #000000;
 }
 #contacts3-t STRONG {
   color: #f4861f;
@@ -594,4 +602,14 @@ h6,
 }
 #contacts3-t SPAN {
   color: #ffffff;
+}
+#msg-box7-1t .mbr-section-title,
+#msg-box7-1t .lead p {
+  color: #fff;
+}
+#msg-box7-1t H3 {
+  text-align: left;
+}
+#msg-box7-1t P {
+  text-align: left;
 }
