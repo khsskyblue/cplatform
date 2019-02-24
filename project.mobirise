@@ -78,7 +78,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/iphone-xs-isometric-onfloor-mockup-2-1920x1560.png",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f4861f",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -121,11 +121,11 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "H3": {
-              "color": "#000000",
+              "color": "#f4861f",
               "font-size": "36px"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
