@@ -499,19 +499,6 @@ h6,
 #slider-1 SPAN {
   color: #ffffff;
 }
-#header3-20 .mbr-section-title,
-#header3-20 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-20 .mbr-section-title {
-  color: #000000;
-}
-#header3-20 .mbr-section-subtitle {
-  color: #ffffff;
-}
-#features6-n H4 {
-  text-align: center;
-}
 #header3-2a .mbr-section-title,
 #header3-2a .mbr-section-subtitle {
   text-align: center;
@@ -522,15 +509,32 @@ h6,
 #header3-2a .mbr-section-subtitle {
   color: #ffffff;
 }
+#header3-20 .mbr-section-title,
+#header3-20 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-20 .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+#header3-20 .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+#features6-n H4 {
+  text-align: center;
+}
 #header3-1z .mbr-section-title,
 #header3-1z .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1z .mbr-section-title {
   color: #000000;
+  text-align: left;
 }
 #header3-1z .mbr-section-subtitle {
   color: #ffffff;
+  text-align: left;
 }
 #testimonials3-1y .mbr-section-title {
   color: #000000;
@@ -552,9 +556,11 @@ h6,
 }
 #header3-14 .mbr-section-title {
   color: #000000;
+  text-align: left;
 }
 #header3-14 .mbr-section-subtitle {
   color: #ffffff;
+  text-align: left;
 }
 #gallery4-t .mbr-gallery-item > div > span {
   color: #f4861f;
@@ -566,9 +572,11 @@ h6,
 }
 #header3-13 .mbr-section-title {
   color: #000000;
+  text-align: left;
 }
 #header3-13 .mbr-section-subtitle {
   color: #ffffff;
+  text-align: left;
 }
 #features3-12 H4 {
   color: #f4861f;
@@ -585,6 +593,7 @@ h6,
 }
 #social-buttons2-o .mbr-section-title {
   color: #000000;
+  text-align: center;
 }
 #contacts3-t STRONG {
   color: #f4861f;

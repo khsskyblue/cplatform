@@ -414,8 +414,87 @@
             "paddingBottom": 1,
             "bgColor": "#f4861f"
           },
-          "title": "MISSION",
-          "meta": "미션",
+          "title": "C·Platform",
+          "meta": "크리스천 플랫폼",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "50",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f4861f",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1301x671.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "C·Platform",
+          "text": "C·Platform은 크리스천 공유경제 실현 투명한 기부문화 확산, <br>건강한 가치증식을 추구하는 크리스천 블록체인 플랫폼입니다.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-15"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f4861f"
+          },
+          "title": "_<br>MISSION",
+          "meta": "미션<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -555,10 +634,12 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -567,85 +648,8 @@
             "paddingBottom": 1,
             "bgColor": "#f4861f"
           },
-          "title": "C·Platform",
-          "meta": "크리스천 플랫폼",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2a"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "showArrow": true,
-            "imageSize": "50",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f4861f",
-            "overlayOpacity": 0.3
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1301x671.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "C·Platform",
-          "text": "C·Platform은 크리스천 공유경제 실현 투명한 기부문화 확산, <br>건강한 가치증식을 추구하는 크리스천 블록체인 플랫폼입니다.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">더 알아보기 &gt;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-15"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#f4861f"
-          },
-          "title": "ROADMAP",
-          "meta": "2019-2020",
+          "title": "_<br>ROADMAP",
+          "meta": "2019-2020<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -774,10 +778,12 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -786,8 +792,8 @@
             "paddingBottom": 1,
             "bgColor": "#f4861f"
           },
-          "title": "NEWS",
-          "meta": "뉴스",
+          "title": "_<br>NEWS",
+          "meta": "뉴스<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -889,10 +895,12 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           },
           "_params": {
@@ -901,8 +909,8 @@
             "paddingBottom": 1,
             "bgColor": "#f4861f"
           },
-          "title": "TEAM",
-          "meta": "팀",
+          "title": "_<br>TEAM",
+          "meta": "팀<br><br>",
           "_tags": [
             "Theme"
           ],
@@ -1039,7 +1047,8 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -1234,7 +1243,7 @@
               "size": 250
             }
           },
-          "title": "Donation",
+          "title": "_<br>Donation",
           "text": "Ethereum을 이 주소에 기부하십시오<br>gbfgfg0x2a49d3e644726f930ecb90adc0f7e3e2593f80da<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
