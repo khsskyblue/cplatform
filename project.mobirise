@@ -74,10 +74,10 @@
             "imageSize": "58",
             "paddingTop": "6",
             "paddingBottom": "4",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/iphone-xs-isometric-onfloor-mockup-2-1920x1560.png",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#f4861f",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -121,7 +121,7 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "H3": {
-              "color": "#f4861f",
+              "color": "#000000",
               "font-size": "36px"
             },
             "P": {
@@ -715,7 +715,7 @@
             {
               "authorName": "2020. Q1",
               "authorBio": "User",
-              "text": "<p>글로벌 온라인 쇼핑몰 오픈\n</p><p>글로벌 마케팅 플랫폼 설립\n</p><p>제1회 글로벌 복음송가 경연대회\n</p><p>C-Coin 전용 개인용 콜드월렛 (하드웨어 버전)개발 완료</p>",
+              "text": "<p>글로벌 온라인 쇼핑몰 오픈\n</p><p>글로벌 마케팅 플랫폼 설립\n</p><p>제1회 글로벌 복음송가 경연대회\n</p><p>C-Coin 전용 개인용 콜드월렛 (하드웨어 버전)</p><p>개발 완료</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -1127,7 +1127,7 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">문의하기</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">문의하기</a>",
           "title1": "Categories",
           "text1": "크리스천 대표 블록체인 플랫폼",
           "text2": "Tel: +82-2-743-7854",
