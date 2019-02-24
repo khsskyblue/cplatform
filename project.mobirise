@@ -400,13 +400,13 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "title": "MISSION",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "미션",
           "_tags": [
             "Theme"
           ],
@@ -553,7 +553,7 @@
             "bgColor": "#fff"
           },
           "title": "C·Platform",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "크리스천 플랫폼",
           "_tags": [
             "Theme"
           ],
@@ -757,13 +757,13 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "title": "NEWS",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "뉴스",
           "_tags": [
             "Theme"
           ],
@@ -866,13 +866,13 @@
             }
           },
           "_params": {
-            "showMeta": false,
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "title": "TEAM",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "팀",
           "_tags": [
             "Theme"
           ],
@@ -1207,34 +1207,6 @@
             },
             "SPAN": {
               "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "<b>Copyright © 2018 Genesis Holdings .co LTD</b>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-v",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#f4861f"
             }
           }
         }
