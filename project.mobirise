@@ -92,7 +92,7 @@
               "height": 720
             },
             "overlay": false,
-            "overlayColor": "#000000",
+            "overlayColor": "#c0a375",
             "overlayOpacity": "0.1"
           },
           "media": {
@@ -190,13 +190,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d66d0a"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f37e10!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f4861f"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -218,8 +218,8 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
-            "bgColor": "#f4861f",
+            "transparent": false,
+            "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
