@@ -91,7 +91,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
@@ -133,7 +133,7 @@
               "font-size": "36px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         },
