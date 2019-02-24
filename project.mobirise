@@ -397,6 +397,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f4861f"
             }
           },
           "_params": {
@@ -544,6 +547,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f4861f"
             }
           },
           "_params": {
@@ -615,6 +621,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f4861f"
             }
           },
           "_params": {
@@ -646,7 +655,7 @@
               "font-size": "14px"
             },
             ".card-footer > div": {
-              "color": "#000000"
+              "color": "#f4861f"
             }
           },
           "_params": {
@@ -753,7 +762,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#232323"
+              "color": "#f4861f"
             }
           },
           "_params": {
@@ -863,6 +872,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f4861f"
             }
           },
           "_params": {
@@ -1007,6 +1019,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#f4861f"
             }
           },
           "_params": {

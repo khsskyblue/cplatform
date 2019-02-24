@@ -500,6 +500,9 @@ h6,
 #header3-20 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-20 .mbr-section-title {
+  color: #f4861f;
+}
 #features6-n H4 {
   text-align: center;
 }
@@ -507,9 +510,15 @@ h6,
 #header3-2a .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2a .mbr-section-title {
+  color: #f4861f;
+}
 #header3-1z .mbr-section-title,
 #header3-1z .mbr-section-subtitle {
   text-align: center;
+}
+#header3-1z .mbr-section-title {
+  color: #f4861f;
 }
 #testimonials3-1y .mbr-section-title {
   color: #000000;
@@ -523,14 +532,14 @@ h6,
   font-size: 14px;
 }
 #testimonials3-1y .card-footer > div {
-  color: #000000;
+  color: #f4861f;
 }
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-14 .mbr-section-title {
-  color: #232323;
+  color: #f4861f;
 }
 #gallery4-t .mbr-gallery-item > div > span {
   color: #f4861f;
@@ -539,6 +548,9 @@ h6,
 #header3-13 .mbr-section-title,
 #header3-13 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-13 .mbr-section-title {
+  color: #f4861f;
 }
 #features3-12 H4 {
   color: #f4861f;
@@ -552,6 +564,9 @@ h6,
 #social-buttons2-o .mbr-section-title,
 #social-buttons2-o .btn-social {
   color: #232323;
+}
+#social-buttons2-o .mbr-section-title {
+  color: #f4861f;
 }
 #msg-box7-1t .mbr-section-title,
 #msg-box7-1t .lead p {
