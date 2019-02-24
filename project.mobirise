@@ -86,8 +86,8 @@
             "bgColor": "#000000",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/zR-Fq1tvWn4?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=zR-Fq1tvWn4",
+              "url": "https://www.youtube.com/embed/-A30E8_t4ic?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/-A30E8_t4ic?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
