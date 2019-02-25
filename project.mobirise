@@ -7,7 +7,7 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#000000",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#7e9b9f",
         "successColor": "#90a878",
         "infoColor": "#4285f4",
         "warningColor": "#f4861f",
@@ -86,8 +86,8 @@
             "bgColor": "#000000",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/-A30E8_t4ic?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/-A30E8_t4ic?rel=0&showinfo=0&autoplay=0&loop=0",
+              "url": "https://www.youtube.com/embed/k2j_pA4IBEQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/k2j_pA4IBEQ?rel=0&showinfo=0&autoplay=0&loop=0",
               "width": 1280,
               "height": 720
             },
