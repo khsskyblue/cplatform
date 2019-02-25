@@ -91,9 +91,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#c0a375",
-            "overlayOpacity": "0.1"
+            "overlay": true,
+            "overlayColor": "#f4861f",
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
