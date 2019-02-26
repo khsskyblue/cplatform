@@ -411,11 +411,11 @@
             },
             ".mbr-section-title": {
               "color": "#f4861f",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_params": {
