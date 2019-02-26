@@ -78,7 +78,7 @@
             "inverse": true,
             "imageSize": "57",
             "paddingTop": "6",
-            "paddingBottom": "4",
+            "paddingBottom": "7",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
             "parallax": true,
@@ -1338,7 +1338,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone"
               },
