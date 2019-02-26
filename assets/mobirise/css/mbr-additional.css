@@ -505,9 +505,11 @@ h6,
 }
 #header3-2a .mbr-section-title {
   color: #f4861f;
+  text-align: left;
 }
 #header3-2a .mbr-section-subtitle {
   color: #000000;
+  text-align: left;
 }
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
@@ -599,13 +601,15 @@ h6,
 #features3-12 P {
   text-align: center;
 }
-#social-buttons2-o .mbr-section-title,
-#social-buttons2-o .btn-social {
-  color: #232323;
+#msg-box7-1t .mbr-section-title,
+#msg-box7-1t .lead p {
+  color: #fff;
 }
-#social-buttons2-o .mbr-section-title {
-  color: #f4861f;
-  text-align: center;
+#msg-box7-1t H3 {
+  text-align: left;
+}
+#msg-box7-1t P {
+  text-align: left;
 }
 #contacts3-t STRONG {
   color: #f4861f;
@@ -624,13 +628,11 @@ h6,
 #contacts3-t SPAN {
   color: #ffffff;
 }
-#msg-box7-1t .mbr-section-title,
-#msg-box7-1t .lead p {
-  color: #fff;
+#social-buttons2-o .mbr-section-title,
+#social-buttons2-o .btn-social {
+  color: #232323;
 }
-#msg-box7-1t H3 {
-  text-align: left;
-}
-#msg-box7-1t P {
-  text-align: left;
+#social-buttons2-o .mbr-section-title {
+  color: #f4861f;
+  text-align: center;
 }
