@@ -88,8 +88,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "58",
-            "paddingTop": "6",
+            "imageSize": "70",
+            "paddingTop": "7",
             "paddingBottom": "7",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
@@ -226,7 +226,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -254,7 +254,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "_tags": [
             "Theme"
           ],
