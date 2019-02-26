@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Black+Han+Sans:400"
       }
     ],
-    "uniqCompNum": 86,
+    "uniqCompNum": 88,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -129,7 +129,7 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "H3": {
-              "color": "#f4861f",
+              "color": "#000000",
               "font-size": "36px"
             },
             "P": {
@@ -146,14 +146,14 @@
               "color": "#f4861f"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#ffffff"
           },
           "title": "CHRISTIAN CULTURE CHANGE",
           "meta": "로마서 8:28 사이트개발중..",
@@ -410,17 +410,17 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#f4861f"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#f4861f"
+            "bgColor": "#ffffff"
           },
           "title": "C·Platform",
           "meta": "크리스천 플랫폼",
@@ -487,11 +487,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#f4861f",
               "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left"
             }
           },
@@ -499,7 +499,7 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f4861f"
+            "bgColor": "#ffffff"
           },
           "title": "_<br>MISSION",
           "meta": "미션<br><br>",
@@ -609,7 +609,7 @@
           "caption1": "X<br><br>성경읽기 리워드<br>교회헌금 암호화폐<br>주일학교 달란트<br>&nbsp;선교헌금 암호화폐",
           "title2": "CㆍPAY",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "X<br><br>기독교 뮤직폰<br>교회 결제시스템<br>한국기독교 순례길 역사탐방<br>교회문화사역",
+          "caption2": "X<br><br>기독교 뮤직폰<br>교회 결제시스템<br>대한민국 순례 투어 코스<br>교회문화사역",
           "title3": "GCSM",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "X<br><br>크리스천 글로벌 쇼핑몰",
@@ -642,11 +642,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#f4861f",
               "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left"
             }
           },
@@ -654,7 +654,7 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f4861f"
+            "bgColor": "#ffffff"
           },
           "title": "_<br>ROADMAP",
           "meta": "2019-2020<br><br>",
@@ -786,11 +786,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#f4861f",
               "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left"
             }
           },
@@ -798,7 +798,7 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f4861f"
+            "bgColor": "#ffffff"
           },
           "title": "_<br>NEWS",
           "meta": "뉴스<br><br>",
@@ -903,11 +903,11 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#f4861f",
               "text-align": "left"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left"
             }
           },
@@ -915,7 +915,147 @@
             "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#f4861f"
+            "bgColor": "#ffffff"
+          },
+          "title": "_<br>PARTNERS",
+          "meta": "협력사<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "0",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f4861f",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ffffff"
           },
           "title": "_<br>TEAM",
           "meta": "팀<br><br>",
@@ -935,10 +1075,10 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -994,7 +1134,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1002,7 +1142,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1055,7 +1195,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#000000",
+              "color": "#f4861f",
               "text-align": "center"
             }
           },
@@ -1066,7 +1206,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f4861f",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1221,7 +1361,7 @@
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#f4861f",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

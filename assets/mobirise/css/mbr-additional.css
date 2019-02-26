@@ -411,7 +411,7 @@ h6,
   color: #000000;
 }
 #msg-box5-1c H3 {
-  color: #f4861f;
+  color: #000000;
   font-size: 36px;
 }
 #msg-box5-1c P {
@@ -425,7 +425,7 @@ h6,
   color: #f4861f;
 }
 #header3-k .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -504,21 +504,21 @@ h6,
   text-align: center;
 }
 #header3-2a .mbr-section-title {
-  color: #000000;
+  color: #f4861f;
 }
 #header3-2a .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
 }
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-20 .mbr-section-title {
-  color: #000000;
+  color: #f4861f;
   text-align: left;
 }
 #header3-20 .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
 }
 #features6-n H4 {
@@ -529,11 +529,11 @@ h6,
   text-align: center;
 }
 #header3-1z .mbr-section-title {
-  color: #000000;
+  color: #f4861f;
   text-align: left;
 }
 #header3-1z .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
 }
 #testimonials3-1y .mbr-section-title {
@@ -555,15 +555,27 @@ h6,
   text-align: center;
 }
 #header3-14 .mbr-section-title {
-  color: #000000;
+  color: #f4861f;
   text-align: left;
 }
 #header3-14 .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
 }
 #gallery4-t .mbr-gallery-item > div > span {
   color: #f4861f;
+  text-align: left;
+}
+#header3-2f .mbr-section-title,
+#header3-2f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2f .mbr-section-title {
+  color: #f4861f;
+  text-align: left;
+}
+#header3-2f .mbr-section-subtitle {
+  color: #000000;
   text-align: left;
 }
 #header3-13 .mbr-section-title,
@@ -571,11 +583,11 @@ h6,
   text-align: center;
 }
 #header3-13 .mbr-section-title {
-  color: #000000;
+  color: #f4861f;
   text-align: left;
 }
 #header3-13 .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
 }
 #features3-12 H4 {
@@ -592,7 +604,7 @@ h6,
   color: #232323;
 }
 #social-buttons2-o .mbr-section-title {
-  color: #000000;
+  color: #f4861f;
   text-align: center;
 }
 #contacts3-t STRONG {
