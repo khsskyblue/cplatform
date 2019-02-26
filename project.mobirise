@@ -1198,7 +1198,8 @@
               "color": "#fff"
             },
             "H3": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#2969b0"
             },
             "P": {
               "text-align": "left"
@@ -1389,7 +1390,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
