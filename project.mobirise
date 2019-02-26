@@ -76,7 +76,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "57",
+            "imageSize": "58",
             "paddingTop": "6",
             "paddingBottom": "7",
             "bgImageRadio": false,
@@ -91,7 +91,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#f4861f",
             "overlayOpacity": "0"
           },
