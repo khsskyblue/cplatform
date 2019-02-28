@@ -94,9 +94,9 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#000000",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/MYNwIiWP1_E?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/embed/MYNwIiWP1_E?rel=0&showinfo=0&autoplay=0&loop=0",
@@ -141,11 +141,11 @@
           "_anchor": "msg-box5-1c",
           "_styles": {
             "H3": {
-              "color": "#000000",
+              "color": "#f4861f",
               "font-size": "36px"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
