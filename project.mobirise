@@ -88,7 +88,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "53",
+            "imageSize": "70",
             "paddingTop": "7",
             "paddingBottom": "7",
             "bgImageRadio": false,
@@ -132,7 +132,7 @@
             }
           },
           "title": "크리스천 플랫폼",
-          "text": "C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을 추구하는 크리스천 블록체인 플랫폼입니다.",
+          "text": "C·Platform은 크리스천 공유경제 실현, 투명한 기부문화 확산, 건강한 가치증식을<br>추구하는 크리스천 블록체인 플랫폼입니다.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-apple mbr-iconfont mbr-iconfont-btn\"></span>App Store</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span>Google play</a>",
           "_tags": [
             "Theme"
