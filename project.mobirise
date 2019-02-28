@@ -155,7 +155,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#f4861f"
             },
             ".mbr-section-subtitle": {
               "color": "#000000"
@@ -165,7 +165,7 @@
             "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#f4861f"
+            "bgColor": "#ffffff"
           },
           "title": "CHRISTIAN CULTURE CHANGE",
           "meta": "로마서 8:28 사이트개발중..",
