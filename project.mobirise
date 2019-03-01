@@ -59,7 +59,7 @@
       }
     ],
     "uniqCompNum": 88,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
