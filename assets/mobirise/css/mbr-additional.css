@@ -598,6 +598,18 @@ section.form .container {
 #testimonials3-1y .mbr-section-subtitle {
   color: #f4861f;
 }
+#header3-2f .mbr-section-title,
+#header3-2f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2f .mbr-section-title {
+  color: #f4861f;
+  text-align: left;
+}
+#header3-2f .mbr-section-subtitle {
+  color: #000000;
+  text-align: left;
+}
 #header3-14 .mbr-section-title,
 #header3-14 .mbr-section-subtitle {
   text-align: center;
@@ -612,18 +624,6 @@ section.form .container {
 }
 #gallery4-t .mbr-gallery-item > div > span {
   color: #f4861f;
-  text-align: left;
-}
-#header3-2f .mbr-section-title,
-#header3-2f .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2f .mbr-section-title {
-  color: #f4861f;
-  text-align: left;
-}
-#header3-2f .mbr-section-subtitle {
-  color: #000000;
   text-align: left;
 }
 #header3-13 .mbr-section-title,

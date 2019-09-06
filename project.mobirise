@@ -237,7 +237,7 @@
             "fontColor": "#f4861f",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://www.cplatform.io\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">C·Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">비전</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">C 문화</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">걸어온 길</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">CI</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.cplatform.io\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">ROADMAP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#top\">백서 DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://www.cplatform.io\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">C·Platform</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">비전</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">C 문화</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">걸어온 길</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\" aria-expanded=\"false\">CI</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-14\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-20\" aria-expanded=\"false\">MISSION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1z\" aria-expanded=\"false\">ROADMAP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-2f\" aria-expanded=\"false\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-13\" aria-expanded=\"false\">TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"#top\">백서 DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -817,123 +817,6 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "_<span style=\"font-weight: normal;\"><br></span>NEWS",
-          "meta": "뉴스<br><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-14"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "0",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#ffffff",
-            "showText": true,
-            "filter": true,
-            "images": [
-              {
-                "tags": "발표",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
-                "thumb": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479-800x418.png",
-                "alt": "",
-                "title": "",
-                "caption": "C·문화",
-                "active": true
-              },
-              {
-                "tags": "비디오",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/diana-vargas-715578-unsplash-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/diana-vargas-715578-unsplash-2000x1500-800x600.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "C·블록체인",
-                "active": false
-              },
-              {
-                "tags": "파트너쉽",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671-800x413.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "C·생활<br>",
-                "active": false
-              },
-              {
-                "tags": "공식발표",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-ebook.pdf-page-3-2000x1419.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ebook.pdf-page-3-2000x1419-800x568.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "C·역사",
-                "active": false
-              },
-              {
-                "tags": "채용",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1-earth-800x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-earth-800x480-800x480.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "C·미션",
-                "active": false
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery4",
-          "_anchor": "gallery4-t",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#f4861f",
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#f4861f",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "text-align": "left"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
           "title": "_<br>PARTNERS",
           "meta": "협력사<br><br>",
           "_tags": [
@@ -1053,6 +936,123 @@
           "allItem": "All",
           "_name": "gallery3",
           "_anchor": "gallery3-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#f4861f",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "title": "_<span style=\"font-weight: normal;\"><br></span>NEWS",
+          "meta": "뉴스<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-14"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "발표",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479-800x418.png",
+                "alt": "",
+                "title": "",
+                "caption": "C·문화",
+                "active": true
+              },
+              {
+                "tags": "비디오",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/diana-vargas-715578-unsplash-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/diana-vargas-715578-unsplash-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "C·블록체인",
+                "active": false
+              },
+              {
+                "tags": "파트너쉽",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671-800x413.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "C·생활<br>",
+                "active": false
+              },
+              {
+                "tags": "공식발표",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-ebook.pdf-page-3-2000x1419.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ebook.pdf-page-3-2000x1419-800x568.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "C·역사",
+                "active": false
+              },
+              {
+                "tags": "채용",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/1-earth-800x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-earth-800x480-800x480.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "C·미션",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-t",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#f4861f",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
