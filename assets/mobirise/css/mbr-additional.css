@@ -742,6 +742,14 @@ section.form .container {
 #menu-2o A {
   font-size: 12px;
 }
+#header3-2w .mbr-section-title,
+#header3-2w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2w .mbr-section-title {
+  text-align: left;
+  color: #f4861f;
+}
 #contacts3-2p STRONG {
   color: #f4861f;
 }

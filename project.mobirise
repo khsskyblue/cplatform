@@ -58,7 +58,7 @@
         "file": "@PROJECT_PATH@/fonts/Quantify/font.ttf"
       }
     ],
-    "uniqCompNum": 103,
+    "uniqCompNum": 105,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -1482,9 +1482,33 @@
           "_anchor": "menu-2o"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "color": "#f4861f"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "title": "_<br>CI",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2w"
+        },
+        {
           "_params": {
             "showText": false,
-            "paddingTop": 4,
+            "paddingTop": "0",
             "paddingBottom": 4,
             "bgColor": "#fff"
           },
