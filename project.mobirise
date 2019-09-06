@@ -700,7 +700,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showSubtitle": true,
             "showImages": false,
             "showName": true,
@@ -720,8 +720,8 @@
           "_tags": [
             "Theme"
           ],
-          "title": "ROADMAP",
-          "subtitle": "<b>크리스천 블록체인 플랫폼 로드맵&nbsp;</b>",
+          "title": "C·Platform",
+          "subtitle": "<b>크리스천 블록체인 플랫폼</b>",
           "testimonial": [
             {
               "authorName": "2019.Q4",
