@@ -694,11 +694,14 @@
             },
             ".card-footer > div": {
               "color": "#f4861f"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#f4861f"
             }
           },
           "_params": {
             "showTitle": false,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showImages": false,
             "showName": true,
             "showBio": false,
@@ -718,7 +721,7 @@
             "Theme"
           ],
           "title": "ROADMAP",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "<b>크리스천 블록체인 플랫폼 로드맵&nbsp;</b>",
           "testimonial": [
             {
               "authorName": "2019.Q4",
@@ -844,7 +847,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cplatform-photo-917x479-800x418.png",
                 "alt": "",
                 "title": "",
-                "caption": "test",
+                "caption": "C·문화",
                 "active": true
               },
               {
@@ -856,7 +859,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/diana-vargas-715578-unsplash-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "test",
+                "caption": "C·블록체인",
                 "active": false
               },
               {
@@ -868,7 +871,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/wirtschaft-der-freiheit-website-header-1-1301x671-800x413.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "test<br>",
+                "caption": "C·생활<br>",
                 "active": false
               },
               {
@@ -880,7 +883,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ebook.pdf-page-3-2000x1419-800x568.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "test",
+                "caption": "C·역사",
                 "active": false
               },
               {
@@ -892,7 +895,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-earth-800x480-800x480.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "test",
+                "caption": "C·미션",
                 "active": false
               }
             ]
