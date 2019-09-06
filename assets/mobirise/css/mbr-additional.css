@@ -531,6 +531,9 @@ section.form .container {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#menu-0 A {
+  font-size: 12px;
+}
 #slider-1 P {
   text-align: left;
   color: #ffffff;
