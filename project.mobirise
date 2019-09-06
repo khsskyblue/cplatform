@@ -244,7 +244,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-516x90.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
@@ -1461,12 +1461,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-516x90.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
