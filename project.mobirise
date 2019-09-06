@@ -1281,7 +1281,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-265x46.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1546,7 +1546,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/cplatform-ci-265x46.png",
+              "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "class": "card-img-top",
               "width": 265,
               "active": true,
