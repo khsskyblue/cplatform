@@ -906,7 +906,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bugtimeadventures-124x47.png",
+              "src": "@PROJECT_PATH@/assets/images/bugtime-1.svg",
               "link": "",
               "alt": "",
               "title": ""
@@ -958,7 +958,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bugtimeadventures-124x47.png",
+              "src": "@PROJECT_PATH@/assets/images/bugtime-1.svg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1010,7 +1010,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bugtimeadventures-124x47.png",
+              "src": "@PROJECT_PATH@/assets/images/bugtime-1.svg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1062,7 +1062,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/bugtimeadventures-124x47.png",
+              "src": "@PROJECT_PATH@/assets/images/bugtime-1.svg",
               "link": "",
               "alt": "",
               "title": ""
