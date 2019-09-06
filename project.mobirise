@@ -65,7 +65,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/cplatform.svg",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
