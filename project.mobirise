@@ -168,7 +168,7 @@
             "bgColor": "#000000"
           },
           "title": "CHRISTIAN CULTURE CHANGE",
-          "meta": "로마서 8:28 사이트개발중..",
+          "meta": "로마서 8:28",
           "_tags": [
             "Theme"
           ],
@@ -814,7 +814,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "_<br>NEWS",
+          "title": "_<span style=\"font-weight: normal;\"><br></span>NEWS",
           "meta": "뉴스<br><br>",
           "_tags": [
             "Theme"
@@ -1071,7 +1071,7 @@
             "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
-          "title": "_<br>TEAM",
+          "title": "_<span style=\"font-weight: normal;\"><br></span>TEAM",
           "meta": "팀<br><br>",
           "_tags": [
             "Theme"
