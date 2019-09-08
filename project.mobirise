@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "cplatform",
-    "currentPage": "ci.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -58,7 +58,7 @@
         "file": "@PROJECT_PATH@/fonts/Quantify/font.ttf"
       }
     ],
-    "uniqCompNum": 105,
+    "uniqCompNum": 88,
     "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -247,7 +247,7 @@
               "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1464,8 +1464,9 @@
               "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
