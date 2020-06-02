@@ -59,7 +59,7 @@
       }
     ],
     "uniqCompNum": 88,
-    "versionPublish": "4.10.8",
+    "versionPublish": "5.0.5",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -69,7 +69,8 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": ""
+    "gdpr": "",
+    "imageResize": true
   },
   "pages": {
     "index.html": {
