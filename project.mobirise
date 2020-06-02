@@ -248,7 +248,7 @@
               "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://cplatform.io",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1465,7 +1465,7 @@
               "src": "@PROJECT_PATH@/assets/images/cplatform-1.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://cplatform.io",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
